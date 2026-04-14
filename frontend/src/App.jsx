@@ -33,7 +33,8 @@ function App() {
     formData.append('codel_size', codelSize);
 
     try {
-      const response = await fetch('http://localhost:8000/run', {
+      const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000';
+      const response = await fetch(`${backendUrl}/run`, {
         method: 'POST',
         body: formData,
       });
