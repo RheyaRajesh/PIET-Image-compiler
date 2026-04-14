@@ -1,6 +1,5 @@
-# 🎨 Piet Image Compiler
-
-Welcome to the **Piet Image Compiler**, a full-stack web application that brings esoteric programming to life! 
+<h1 align="center">🎨 Piet Image Compiler</h1>
+<p align="center">A creative Compiler that turns colorful abstract images into executable programs and brings esoteric programming to life! ⚡</p>
 
 [Piet](https://www.dangermouse.net/esoteric/piet.html) is a visual programming language where the code looks like abstract art. Programs are composed of blocks of color, and the interpreter navigates through these colors to execute logic. This compiler provides an interactive, beautiful interface to upload your Piet masterpieces, adjust codel sizes, and visually trace the execution step-by-step as it evaluates the code and outputs the results!
 
