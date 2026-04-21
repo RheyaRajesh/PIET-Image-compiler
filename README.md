@@ -3,8 +3,6 @@
 
 [Piet](https://www.dangermouse.net/esoteric/piet.html) is a visual programming language where the code looks like abstract art. Programs are composed of blocks of color, and the interpreter navigates through these colors to execute logic. This compiler provides an interactive, beautiful interface to upload your Piet masterpieces, adjust codel sizes, and visually trace the execution step-by-step as it evaluates the code and outputs the results!
 
-Be it "Hello World" or a complex algorithm, if it's painted correctly, it runs!
-
 ## 🚀 Features
 - **Visual Uploads**: Upload your Piet programs as image files.
 - **Adjustable Codel Size**: Easily scale your logical blocks to match upscaled or pixel-art images.
@@ -39,5 +37,12 @@ npm run dev
 ```
 *The frontend will be available at http://localhost:5173*. Click the link in your terminal to open it in your browser!
 
+---
+## 📸 Interface Preview
+
+![Dashboard Main](images/start.png)
+![Dashboard Main](images/middle.png)
+![Dashboard Main](images/final.png)
+*(Fig: Hello world Piet Image Execution)*
 ---
 *Happy Painting & Programming!*
